@@ -123,7 +123,7 @@ publishing {
             }
 
             pom {
-                name.set("simple-jndi-utils")
+                name.set("kotlin-utils")
                 description.set("General deduping engine for JDBC sources with output to JDBC/csv targets")
                 url.set("https://github.com/bmiller1009/kotlin-utils")
                 licenses {
