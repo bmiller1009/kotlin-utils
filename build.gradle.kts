@@ -124,7 +124,7 @@ publishing {
 
             pom {
                 name.set("kotlin-utils")
-                description.set("General deduping engine for JDBC sources with output to JDBC/csv targets")
+                description.set("General programming utility library for kotlin")
                 url.set("https://github.com/bmiller1009/kotlin-utils")
                 licenses {
                     license {
